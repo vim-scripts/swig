@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1247
+
+The standard Vim cannot recognise SWIG (http://www.swig.org) description file.
+I write some simple scripts for highlinghting SWIG description file.
+
+Any advice could be sent to mrkissinger@gmail.com
